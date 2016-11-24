@@ -3,3 +3,5 @@ curl --user name:password httpd://webpage.com -v
 
 wget --http-user=user --http-password=password
 
+
+curl --user name:password https://www.webpage.com/ | grep whatEverIdentifiesTheLink
