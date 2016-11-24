@@ -1,1 +1,3 @@
+#to login in a webpage with username and password
+curl --user name:password httpd://webpage.com -v
 
