@@ -5,3 +5,7 @@ wget --http-user=user --http-password=password
 
 #to search for a content
 curl --user name:password https://www.webpage.com/ | grep whatEverIdentifiesTheLink
+
+cd directory_name
+
+mv source destination
